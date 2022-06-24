@@ -17,7 +17,7 @@
 </div>
 
 <h2 align=left> 💻 Sobre o projeto </h3>
-<p> Página feita durante o programa <strong>Explorer</strong> da <a href="https://www.rocketseat.com.br/"> <strong>Rocketseat</strong> </a>. É o primeiro projeto do nível 2 do programa, onde construímos uma página simples para demonstração de conceitos básicos de HTML e CSS.<p>
+<p> Página feita durante o programa <strong>Explorer</strong> da <a href="https://www.rocketseat.com.br/"> <strong>Rocketseat</strong> </a>. É o primeiro projeto do programa, feito durante as aulas do nível 2, onde construímos uma página simples para demonstração de conceitos básicos de HTML e CSS.<p>
   
 <h2 align=left> 🛠 Tecnologias utilizadas </h3>
 

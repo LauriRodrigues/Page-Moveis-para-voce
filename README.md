@@ -13,7 +13,7 @@
   
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LauriRodrigues/Page-Moveis-para-voce?color=%231280BF&style=plastic">
   
-  <a href=""> ▶️ Visualizar Deploy </a>
+  <a href="https://laurirodrigues.github.io/Page-Moveis-para-voce/"> ▶️ Visualizar Deploy </a>
 </div>
 
 <h2 align=left> 💻 Sobre o projeto </h3>
@@ -31,4 +31,4 @@
 
 <h4>💻 Desktop </h4>
 
-<img alt="Versão Desktop" title="Desktop" src="./assets/readme/Desktop.png" width="60%">
+<img alt="Versão Desktop" title="Desktop" src="./assets/readme/Desktop.png" width="70%">
